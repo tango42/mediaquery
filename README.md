@@ -1,10 +1,3 @@
-[![Build Status](https://travis-ci.org/axyz/mediaquery.svg?branch=master)](https://travis-ci.org/axyz/mediaquery)
-[![Coverage Status](https://coveralls.io/repos/axyz/mediaquery/badge.svg?branch=master)](https://coveralls.io/r/axyz/mediaquery?branch=master)
-![Dependencies Status](https://david-dm.org/axyz/mediaquery.svg)
-[![Code Climate](https://codeclimate.com/github/axyz/mediaquery/badges/gpa.svg)](https://codeclimate.com/github/axyz/mediaquery)
-
-[![Join the chat at https://gitter.im/axyz/mediaquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/axyz/mediaquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 NB: This is a fork of https://gitter.im/axyz/mediaquery and extended with the option of passing media query direction (width, height, default width).
 
 # mediaquery

@@ -1,9 +1,9 @@
 {
-  "name": "mediaquery",
+  "name": "mediaquerywh",
   "version": "0.0.4",
   "description": "turns human readable breakpoints into correct mediaqueries",
   "main": "index.js",
-  "homepage": "https://github.com/axyz/mediaquery",
+  "homepage": "https://github.com/tango42/mediaquery",
   "scripts": {
     "test": "./node_modules/.bin/mocha",
     "build": "cp ./lib/mediaquery.js dist && cat ./lib/mediaquery.js | ./node_modules/.bin/uglifyjs -c > dist/mediaquery.min.js"
@@ -19,9 +19,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/axyz/mediaquery"
+    "url": "https://github.com/tango42/mediaquery"
   },
-  "author": "Andrea Moretti <axyzxp@gmail.com> (@axyz)",
+  "author": "WillemHein Triemstra",
   "license": "MIT",
   "devDependencies": {
     "browserify": "^9.0.7",
